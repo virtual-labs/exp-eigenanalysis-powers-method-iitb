@@ -1,0 +1,1 @@
+﻿<h2>AIM: To study powers method</h2>
