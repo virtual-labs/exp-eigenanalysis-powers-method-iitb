@@ -1,0 +1,20 @@
+[
+   {
+      "question": "Find the smallest eigen value of <span style='display: inline-block;'> $$ A = \\begin{bmatrix} 1 & 8 \\\\ 2 & 1 \\\\ \\end{bmatrix}$$</span>",
+      "qid": 1,
+      "option_a": "4",
+      "option_b": "-6",
+      "option_c": "-3",
+      "option_d": "5",
+      "correct_option": "c"
+   },
+   {
+      "question": "Find the largest eigen value of <span style='display : inline-block;'>$$ A = \\begin{bmatrix} 1 & 8 \\\\ 2 & 1 \\\\ \\end{bmatrix}$$</span>",
+      "qid": 2,
+      "option_a": "4",
+      "option_b": "-6",
+      "option_c": "-3",
+      "option_d": "5",
+      "correct_option": "d"
+   }
+]
